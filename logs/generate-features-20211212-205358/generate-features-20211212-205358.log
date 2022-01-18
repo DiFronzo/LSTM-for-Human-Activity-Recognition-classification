@@ -1,0 +1,14 @@
+DEBUG: 2021-12-12 20:53:58,572: 1598746056.py: <module>: /Users/andreas/Documents/git/dsProject/s8/logs/generate-features-20211212-205358/generate-features-20211212-205358.log
+DEBUG: 2021-12-12 20:53:58,575: 1598746056.py: main: Start creating features...
+DEBUG: 2021-12-12 20:55:17,830: 1693616991.py: <module>: /Users/andreas/Documents/git/dsProject/s8/raw data/logs/generate-features-20211212-205517/generate-features-20211212-205517.log
+DEBUG: 2021-12-12 20:55:17,835: 1693616991.py: main: Start creating features...
+DEBUG: 2021-12-12 20:55:45,841: 594674048.py: <module>: /Users/andreas/Documents/git/dsProject/s8/raw data/logs/generate-features-20211212-205545/generate-features-20211212-205545.log
+DEBUG: 2021-12-12 20:55:45,846: 594674048.py: main: Start creating features...
+DEBUG: 2021-12-12 21:05:09,214: 594674048.py: main: X_train.shape=(2459, 784), X_test.shape=(830, 784)
+DEBUG: 2021-12-12 21:05:09,217: 594674048.py: main: y_train.shape=(2459,), y_test.shape=(830,)
+DEBUG: 2021-12-12 21:05:09,220: 594674048.py: main: subject_train.shape=(2459,), subject_test.shape=(830,)
+DEBUG: 2021-12-12 21:09:40,619: 1571910282.py: <module>: /Users/andreas/Documents/git/dsProject/s8/logs/generate-features-20211212-210940/generate-features-20211212-210940.log
+DEBUG: 2021-12-12 21:09:40,624: 1571910282.py: main: Start creating features...
+DEBUG: 2021-12-12 21:25:20,709: 1571910282.py: main: X_train.shape=(2459, 784), X_test.shape=(830, 784)
+DEBUG: 2021-12-12 21:25:20,713: 1571910282.py: main: y_train.shape=(2459,), y_test.shape=(830,)
+DEBUG: 2021-12-12 21:25:20,717: 1571910282.py: main: subject_train.shape=(2459,), subject_test.shape=(830,)
