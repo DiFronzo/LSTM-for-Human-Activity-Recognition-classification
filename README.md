@@ -1,6 +1,6 @@
 # LSTM for Human Activity Recognition classification
 
-Insperied by the [LSTMs for Human Activity Recognition](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) repository.
+Insperied by the [LSTMs for Human Activity Recognition](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) and [Deep Learning (and Machine Learning) for Human Activity Recognition](https://github.com/takumiw/Deep-Learning-for-Human-Activity-Recognition) repository.
 
 Human Activity Recognition (HAR) using smartphones dataset and an LSTM. Classifying the type of movement amongst five categories:
 
