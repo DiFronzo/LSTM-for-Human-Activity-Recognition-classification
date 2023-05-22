@@ -104,7 +104,7 @@ terminado==0.12.1
 testpath==0.5.0
 threadpoolctl==3.0.0
 tornado==6.1
-tqdm==4.62.3
+tqdm==4.65.0
 traitlets==5.1.1
 typing-extensions==4.0.1
 urllib3==1.26.7
