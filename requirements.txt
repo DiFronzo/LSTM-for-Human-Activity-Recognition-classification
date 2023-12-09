@@ -92,7 +92,7 @@ Send2Trash==1.8.2
 shap==0.41.0
 six==1.16.0
 slicer==0.0.7
-statsmodels==0.13.1
+statsmodels==0.14.0
 tensorboard==2.7.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
