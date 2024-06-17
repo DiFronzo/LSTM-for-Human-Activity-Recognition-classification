@@ -73,7 +73,7 @@ protobuf==5.26.1
 ptyprocess==0.7.0
 pyasn1==0.5.1
 pyasn1-modules==0.2.8
-pycparser==2.21
+pycparser==2.22
 Pygments==2.18.0
 pyparsing==3.1.2
 pyrsistent==0.20.0
