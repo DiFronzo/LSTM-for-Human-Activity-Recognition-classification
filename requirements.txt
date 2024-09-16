@@ -3,7 +3,7 @@ appnope==0.1.4
 argon2-cffi==23.1.0
 argon2-cffi-bindings==21.2.0
 astunparse==1.6.3
-attrs==23.2.0
+attrs==24.2.0
 backcall==0.2.0
 bleach==6.1.0
 cachetools==5.3.3
