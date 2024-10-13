@@ -60,7 +60,7 @@ numpy==1.26.3
 oauthlib==3.2.2
 opt-einsum==3.3.0
 packaging==24.1
-pandas==2.2.0
+pandas==2.2.3
 pandocfilters==1.5.1
 parso==0.8.4
 patsy==0.5.6
