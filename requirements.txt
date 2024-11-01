@@ -75,7 +75,7 @@ pyasn1==0.6.0
 pyasn1-modules==0.4.0
 pycparser==2.22
 Pygments==2.18.0
-pyparsing==3.1.2
+pyparsing==3.2.0
 pyrsistent==0.20.0
 python-dateutil==2.9.0.post0
 pytz==2024.2
