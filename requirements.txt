@@ -37,7 +37,7 @@ jsonschema==4.23.0
 jupyter==1.0.0
 jupyter-client==8.6.0
 jupyter-console==6.6.3
-jupyter-core==5.7.1
+jupyter-core==5.7.2
 jupyterlab-pygments==0.3.0
 jupyterlab-widgets==3.0.13
 keras==3.6.0
