@@ -47,7 +47,7 @@ libclang==18.1.1
 llvmlite==0.43.0
 Markdown==3.7
 MarkupSafe==2.1.5
-matplotlib==3.8.3
+matplotlib==3.10.0
 matplotlib-inline==0.1.7
 mistune==3.0.2
 nbclient==0.10.1
