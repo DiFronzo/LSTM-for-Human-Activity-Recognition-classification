@@ -81,7 +81,7 @@ python-dateutil==2.9.0.post0
 pytz==2025.1
 pyzmq==25.1.2
 qtconsole==5.6.1
-QtPy==2.4.2
+QtPy==2.4.3
 requests==2.32.3
 requests-oauthlib==2.0.0
 rsa==4.9
