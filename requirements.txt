@@ -99,7 +99,7 @@ tensorboard-plugin-wit==1.8.1
 tensorflow==2.18.1
 tensorflow-estimator==2.15.0
 tensorflow-io-gcs-filesystem==0.37.1
-termcolor==2.5.0
+termcolor==3.0.1
 terminado==0.18.1
 testpath==0.6.0
 threadpoolctl==3.5.0
