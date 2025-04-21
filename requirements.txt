@@ -39,7 +39,7 @@ jupyter-client==8.6.3
 jupyter-console==6.6.3
 jupyter-core==5.7.2
 jupyterlab-pygments==0.3.0
-jupyterlab-widgets==3.0.13
+jupyterlab-widgets==3.0.14
 keras==3.9.0
 Keras-Preprocessing==1.1.2
 kiwisolver==1.4.8
