@@ -59,7 +59,7 @@ numba==0.60.0
 numpy==2.2.4
 oauthlib==3.2.2
 opt-einsum==3.4.0
-packaging==24.2
+packaging==25.0
 pandas==2.2.3
 pandocfilters==1.5.1
 parso==0.8.4
