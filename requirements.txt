@@ -67,7 +67,7 @@ patsy==1.0.1
 pexpect==4.9.0
 pickleshare==0.7.5
 Pillow==10.4.0
-prometheus-client==0.21.1
+prometheus-client==0.22.0
 prompt-toolkit==3.0.48
 protobuf==5.29.3
 ptyprocess==0.7.0
