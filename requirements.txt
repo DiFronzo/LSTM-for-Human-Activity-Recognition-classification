@@ -17,7 +17,7 @@ decorator==5.2.1
 defusedxml==0.7.1
 entrypoints==0.4
 flatbuffers==24.3.25
-fonttools==4.58.0
+fonttools==4.58.3
 gast==0.6.0
 google-auth==2.40.2
 google-auth-oauthlib==1.2.1
