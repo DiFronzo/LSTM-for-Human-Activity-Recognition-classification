@@ -23,7 +23,7 @@ google-auth==2.40.2
 google-auth-oauthlib==1.2.1
 google-pasta==0.2.0
 grpcio==1.68.1
-h5py==3.13.0
+h5py==3.14.0
 idna==3.10
 importlib-metadata==8.7.0
 ipykernel==6.29.5
