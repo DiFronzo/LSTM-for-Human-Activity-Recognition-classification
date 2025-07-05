@@ -89,7 +89,7 @@ scikit-learn==1.6.1
 scipy==1.15.1
 seaborn==0.13.2
 Send2Trash==1.8.3
-shap==0.45.0
+shap==0.48.0
 six==1.17.0
 slicer==0.0.8
 statsmodels==0.14.4
