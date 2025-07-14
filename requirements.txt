@@ -7,7 +7,7 @@ attrs==25.3.0
 backcall==0.2.0
 bleach==6.2.0
 cachetools==5.5.2
-certifi==2025.1.31
+certifi==2025.7.14
 cffi==1.17.1
 charset-normalizer==3.4.2
 cloudpickle==3.1.1
