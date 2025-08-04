@@ -106,7 +106,7 @@ threadpoolctl==3.6.0
 tornado==6.5.1
 tqdm==4.67.1
 traitlets==5.14.3
-typing-extensions==4.13.2
+typing-extensions==4.14.1
 urllib3==2.5.0
 wcwidth==0.2.13
 webencodings==0.5.1
