@@ -33,7 +33,7 @@ ipywidgets==8.1.7
 jedi==0.19.2
 Jinja2==3.1.6
 joblib==1.5.1
-jsonschema==4.24.0
+jsonschema==4.25.0
 jupyter==1.1.1
 jupyter-client==8.6.3
 jupyter-console==6.6.3
