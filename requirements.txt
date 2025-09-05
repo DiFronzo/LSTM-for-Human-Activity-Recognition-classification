@@ -82,7 +82,7 @@ pytz==2025.2
 pyzmq==27.0.1
 qtconsole==5.6.1
 QtPy==2.4.3
-requests==2.32.4
+requests==2.32.5
 requests-oauthlib==2.0.0
 rsa==4.9.1
 scikit-learn==1.6.1
