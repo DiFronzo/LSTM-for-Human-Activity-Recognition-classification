@@ -62,7 +62,7 @@ opt-einsum==3.4.0
 packaging==25.0
 pandas==2.3.2
 pandocfilters==1.5.1
-parso==0.8.4
+parso==0.8.5
 patsy==1.0.1
 pexpect==4.9.0
 pickleshare==0.7.5
