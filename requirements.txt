@@ -80,7 +80,7 @@ pyrsistent==0.20.0
 python-dateutil==2.9.0.post0
 pytz==2025.2
 pyzmq==27.1.0
-qtconsole==5.6.1
+qtconsole==5.7.0
 QtPy==2.4.3
 requests==2.32.5
 requests-oauthlib==2.0.0
