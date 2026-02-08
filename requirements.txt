@@ -9,7 +9,7 @@ bleach==6.2.0
 cachetools==6.2.1
 certifi==2025.8.3
 cffi==2.0.0
-charset-normalizer==3.4.3
+charset-normalizer==3.4.4
 cloudpickle==3.1.2
 cycler==0.12.1
 debugpy==1.8.19
