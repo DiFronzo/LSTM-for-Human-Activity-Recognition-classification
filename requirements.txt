@@ -5,7 +5,7 @@ argon2-cffi-bindings==25.1.0
 astunparse==1.6.3
 attrs==25.4.0
 backcall==0.2.0
-bleach==6.2.0
+bleach==6.3.0
 cachetools==6.2.1
 certifi==2025.8.3
 cffi==2.0.0
