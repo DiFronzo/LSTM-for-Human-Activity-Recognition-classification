@@ -30,7 +30,7 @@ ipykernel==7.2.0
 ipython==9.13.0
 ipython-genutils==0.2.0
 ipywidgets==8.1.8
-jedi==0.19.2
+jedi==0.20.0
 Jinja2==3.1.6
 joblib==1.5.2
 jsonschema==4.25.1
