@@ -86,7 +86,7 @@ requests==2.34.2
 requests-oauthlib==2.0.0
 rsa==4.9.1
 scikit-learn==1.8.0
-scipy==1.16.2
+scipy==1.18.0
 seaborn==0.13.2
 Send2Trash==2.1.0
 shap==0.52.0
