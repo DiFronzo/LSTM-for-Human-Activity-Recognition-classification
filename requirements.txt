@@ -79,7 +79,7 @@ pyparsing==3.3.2
 pyrsistent==0.20.0
 python-dateutil==2.9.0.post0
 pytz==2026.1.post1
-pyzmq==27.1.0
+pyzmq==27.3.0
 qtconsole==5.7.2
 QtPy==2.4.3
 requests==2.34.2
